@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Env files
+backend/.env
+
+# Docker
+*.env
+docker-compose.override.yml
